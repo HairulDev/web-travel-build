@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://sambasvacation.netlify.app/static/css/main.968fa100.chunk.css",
+    "main.js": "https://sambasvacation.netlify.app/static/js/main.6ee7c000.chunk.js",
+    "main.js.map": "https://sambasvacation.netlify.app/static/js/main.6ee7c000.chunk.js.map",
+    "runtime-main.js": "https://sambasvacation.netlify.app/static/js/runtime-main.65c5cf39.js",
+    "runtime-main.js.map": "https://sambasvacation.netlify.app/static/js/runtime-main.65c5cf39.js.map",
+    "static/css/2.ae4320a7.chunk.css": "https://sambasvacation.netlify.app/static/css/2.ae4320a7.chunk.css",
+    "static/js/2.63cb09d2.chunk.js": "https://sambasvacation.netlify.app/static/js/2.63cb09d2.chunk.js",
+    "static/js/2.63cb09d2.chunk.js.map": "https://sambasvacation.netlify.app/static/js/2.63cb09d2.chunk.js.map",
+    "index.html": "https://sambasvacation.netlify.app/index.html",
+    "precache-manifest.06c916e9c6954d84dd2828b7700095ac.js": "https://sambasvacation.netlify.app/precache-manifest.06c916e9c6954d84dd2828b7700095ac.js",
+    "service-worker.js": "https://sambasvacation.netlify.app/service-worker.js",
+    "static/css/2.ae4320a7.chunk.css.map": "https://sambasvacation.netlify.app/static/css/2.ae4320a7.chunk.css.map",
+    "static/css/main.968fa100.chunk.css.map": "https://sambasvacation.netlify.app/static/css/main.968fa100.chunk.css.map",
+    "static/js/2.63cb09d2.chunk.js.LICENSE.txt": "https://sambasvacation.netlify.app/static/js/2.63cb09d2.chunk.js.LICENSE.txt",
+    "static/js/main.6ee7c000.chunk.js.LICENSE.txt": "https://sambasvacation.netlify.app/static/js/main.6ee7c000.chunk.js.LICENSE.txt",
+    "static/media/completed.jpg": "https://sambasvacation.netlify.app/static/media/completed.3366f136.jpg",
+    "static/media/icon-calendar.svg": "https://sambasvacation.netlify.app/static/media/icon-calendar.67e25a39.svg",
+    "static/media/img-hero.jpg": "https://sambasvacation.netlify.app/static/media/img-hero.60e23ce8.jpg",
+    "static/media/index.scss": "https://sambasvacation.netlify.app/static/media/star.11a62c71.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65c5cf39.js",
+    "static/css/2.ae4320a7.chunk.css",
+    "static/js/2.63cb09d2.chunk.js",
+    "static/css/main.968fa100.chunk.css",
+    "static/js/main.6ee7c000.chunk.js"
+  ]
+}
